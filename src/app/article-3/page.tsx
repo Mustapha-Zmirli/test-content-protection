@@ -1,3 +1,4 @@
+// src/app/article-3/page.tsx (Fixed version)
 export default function Article3() {
   return (
     <div className="max-w-4xl mx-auto px-4 py-8">
@@ -20,7 +21,7 @@ export default function Article3() {
         <h2>How Blockchain Verification Works</h2>
         <p>
           When content is registered on a blockchain, it creates a permanent, unalterable 
-          record that includes the content's hash, timestamp, and creator information. 
+          record that includes the content&apos;s hash, timestamp, and creator information. 
           This record serves as cryptographic proof of when and by whom the content was created.
         </p>
         

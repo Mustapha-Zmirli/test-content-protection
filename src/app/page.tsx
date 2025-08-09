@@ -34,7 +34,7 @@ export default function Home() {
           <div className="flex items-center gap-3">
             <Shield className="h-8 w-8 text-blue-600" />
             <h1 className="text-2xl font-bold text-gray-900">
-              Writers' Bloc Test Site
+              Writers&apos; Bloc Test Site
             </h1>
           </div>
           <p className="text-gray-600 mt-2">
@@ -50,7 +50,7 @@ export default function Home() {
             Test Articles for Content Protection
           </h2>
           <p className="text-lg text-gray-600 max-w-2xl mx-auto">
-            These articles are designed to test the Writers' Bloc content fingerprinting 
+            These articles are designed to test the Writers&apos; Bloc content fingerprinting 
             and protection features. Each article contains unique content for testing purposes.
           </p>
         </div>
@@ -100,7 +100,7 @@ export default function Home() {
           </h3>
           <div className="text-blue-800">
             <p className="mb-4">
-              This website is designed for testing the Writers' Bloc content protection features:
+              This website is designed for testing the Writers&apos; Bloc content protection features:
             </p>
             <ul className="list-disc list-inside space-y-2 mb-4">
               <li>Each article has a unique URL for individual fingerprinting</li>
@@ -123,7 +123,7 @@ export default function Home() {
       {/* Footer */}
       <footer className="bg-white border-t mt-16">
         <div className="max-w-6xl mx-auto px-4 py-6 text-center text-gray-600">
-          <p>Writers' Bloc Test Site - Created for QA Testing Purposes</p>
+          <p>Writers&apos; Bloc Test Site - Created for QA Testing Purposes</p>
         </div>
       </footer>
     </div>
